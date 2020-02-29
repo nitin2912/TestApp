@@ -7,7 +7,10 @@ using System.Web.Mvc;
 namespace TestGitHubApp2.Controllers
 {
     public class HomeController : Controller
-    {
+    {/// <summary>
+    /// jhghjfhjgfhjfhj
+    /// </summary>
+    /// <returns></returns>
         //test repor branch
         public ActionResult Index()
         {
